@@ -35,3 +35,15 @@ text-align:right;
 p{
 margin-bottom:30px;
 }
+figure{
+	margin-bottom: 30px;
+}
+ul{
+	list-style-type: none;
+}
+h2{
+font-size:60px;
+line-height:62px;
+text-shadow: 0 1px 0 rgba(0,0,0,0.3);
+margin-bottom:30px;
+}
